@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.exe
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.deps.json
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.runtimeconfig.json
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.dll
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\ref\TratamentoExcecoes.dll
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.pdb
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.dll
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\ref\TratamentoExcecoes.dll
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.pdb
+C:\temp\ws-vs2022\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.genruntimeconfig.cache
